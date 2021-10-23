@@ -1,6 +1,6 @@
 numpy
-matplotlib
-pandas
-pillow
-pycodestyle
-scikit-learn
+# matplotlib
+# pandas
+# pillow
+# pycodestyle
+# scikit-learn
